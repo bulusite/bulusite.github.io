@@ -1,5 +1,5 @@
 # 这个人很懒
 hello，2021
-todo leetcode刷题
-## leetcode打卡
-- [x] 2021-1-5
+### 考研上岸
+### 2021每天刷一道leetcode
+### 2021要把英语学好
